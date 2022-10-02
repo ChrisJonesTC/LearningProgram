@@ -1,0 +1,15 @@
+C:\Users\jusdaboiz\repos\LearningProgram\bin\Debug\net6.0\LearningProgram.exe
+C:\Users\jusdaboiz\repos\LearningProgram\bin\Debug\net6.0\LearningProgram.deps.json
+C:\Users\jusdaboiz\repos\LearningProgram\bin\Debug\net6.0\LearningProgram.runtimeconfig.json
+C:\Users\jusdaboiz\repos\LearningProgram\bin\Debug\net6.0\LearningProgram.dll
+C:\Users\jusdaboiz\repos\LearningProgram\bin\Debug\net6.0\LearningProgram.pdb
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\LearningProgram.csproj.AssemblyReference.cache
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\LearningProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\LearningProgram.AssemblyInfoInputs.cache
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\LearningProgram.AssemblyInfo.cs
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\LearningProgram.csproj.CoreCompileInputs.cache
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\LearningProgram.dll
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\refint\LearningProgram.dll
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\LearningProgram.pdb
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\LearningProgram.genruntimeconfig.cache
+C:\Users\jusdaboiz\repos\LearningProgram\obj\Debug\net6.0\ref\LearningProgram.dll
